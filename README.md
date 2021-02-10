@@ -11,7 +11,7 @@ Raw file provided, as well as a zip of such files. Run in a Python IDE to compil
 ## Usage
 
 - Move turtle pass the finish line (red line) to score a point
-- Game will restart until player loses. Score does not disappear if player does not get hit by car
+- Game will restart until player loses. Score does not reset if player does not get hit by car
 
 ## Made with
 
